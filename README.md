@@ -31,3 +31,9 @@ Y. Wang, G. Gui, H. Gacanin, T. Ohtsuki, O. A. Dobre and H. V. Poor, "An Efficie
 ```
 @ARTICLE{9448105,  author={Wang, Yu and Gui, Guan and Gacanin, Haris and Ohtsuki, Tomoaki and Dobre, Octavia A. and Poor, H. Vincent},  journal={IEEE Journal on Selected Areas in Communications},   title={An Efficient Specific Emitter Identification Method Based on Complex-Valued Neural Networks and Network Compression},   year={2021},  volume={39},  number={8},  pages={2305-2317},  doi={10.1109/JSAC.2021.3087243}}
 ```
+
+# License / 许可证
+
+本项目基于自定义非商业许可证发布，禁止用于任何形式的商业用途。
+
+This project is distributed under a custom non-commercial license. Any form of commercial use is prohibited.
